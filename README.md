@@ -6,6 +6,7 @@
 <p align="right"> <img src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" /> </p>
 
 
+<p align="left"> <a href="https://twitter.com/mahmoudatta22" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudatta22?logo=twitter&style=for-the-badge" alt="mahmoudatta22" /></a> </p>
 - 🔭 I’m currently working on **Car Rental**
 
 - 🌱 I’m currently learning **Angular , API**
