@@ -1,13 +1,11 @@
-
-![MasterHead](https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ)
-
+[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahmoud Reda</h1>
-<h3 align="center">A passionate Web developer from Egypt</h3>
-<p align="right"> <img src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" /> </p>
+<h3 align="center"> Web Developer from Egypt</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudatta2020&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudatta2020" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mahmoudatta22" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudatta22?logo=twitter&style=for-the-badge" alt="mahmoudatta22" /></a> </p>
-- 🔭 I’m currently working on **Car Rental**
 
 - 🌱 I’m currently learning **Angular , API**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **mah.redaa0@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Mahmoud%20Reda/Desktop/my%20cv/Mhmod%20Reda.pdf](file:///C:/Users/Mahmoud%20Reda/Desktop/my%20cv/Mhmod%20Reda.pdf)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mahmoud-reda-%F0%93%82%86-a281b71aa/](https://www.linkedin.com/in/mahmoud-reda-%F0%93%82%86-a281b71aa/)
 
 - ⚡ Fun fact **I am funny**
 
