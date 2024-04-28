@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://images.prismic.io/turing/652ebf73fbd9a45bcec818b7_functional_programming_44edc8e7a1.webp?auto=format,compress)](https://rishavchanda.io](https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ))
+[![MasterHead](https://media.licdn.com/dms/image/D5612AQFlxMRpK-On8g/article-cover_image-shrink_720_1280/0/1670602482212?e=2147483647&v=beta&t=1HWOX81_1_mfqzP2kdHty9dnCVgb-dmVsMuYhBKCnRQ)
 
 <h1 align="center">Hi 👋, I'm Mahmoud Reda</h1>
 <h3 align="center">A passionate Web developer from Egypt</h3>
